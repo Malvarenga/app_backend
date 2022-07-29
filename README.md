@@ -5,6 +5,8 @@
     3.En consola correr el comando `npm install` para descargar los modulos requeridos
     4.Iniciar servidor ejecutando `node app.js`
 
+#Nota: En Caso ser necesario, editar la conexion a la BD en el archivo `database/db.js`
+
 #MEDOTOS APIRest
 
 ##CLIENTE

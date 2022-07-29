@@ -22,7 +22,7 @@ try {
 }
 
 app.get('/', (req, res)=>{
-    res.send('Bienvenido a la API... POST /clientes {Nombres:valor,Apellidos:valor,Contacto:valor,Correo:valor}')
+    res.send('Bienvenido a la API...')
 })
 
 app.listen(8000, () => {
