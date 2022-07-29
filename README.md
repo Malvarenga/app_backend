@@ -1,7 +1,7 @@
-#PASOS BASICOS PARA LEVNTAR SERVIDOR NODE
+#PASOS BASICOS PARA LEVANTAR SERVIDOR NODE
 
     1.Crear Base de Datos en MySql con el Nombre app
-    2.En la carpeta raiz del proyecto se encuntra el script para crear las Tablas, correrlo dentro de la Base de Datos creada previamente
+    2.En la carpeta raiz del proyecto se encuntra el script con el nombre `app_tables.sql` para crear las Tablas, correrlo dentro de la Base de Datos creada previamente
     3.En consola correr el comando `npm install` para descargar los modulos requeridos
     4.Iniciar servidor ejecutando `node app.js`
 
