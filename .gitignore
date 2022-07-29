@@ -1,0 +1,2 @@
+#Ignoramos la Cargar de los Modulos de Node node_modules
+node_modules/
